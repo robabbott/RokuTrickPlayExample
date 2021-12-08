@@ -1,5 +1,6 @@
 '''''''''
-' init: VideoPlayer example that implements a trick play through a Poster component
+' init: VideoPlayer component example that implements trick play through a Poster component
+'       Extends default Video component
 ' 
 '''''''''
 sub init()
