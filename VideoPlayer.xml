@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="VideoPlayer" extends="Video" xsi:noNamespaceSchemaLocation="https://devtools.web.roku.com/schema/RokuSceneGraph.xsd">
+    <script type="text/brightscript" uri="TrickPlay.brs" />
+    <interface>
+        <field id="thumbnails" type="roAssociativeArray" />
+        <field id="posterWidth" type="float" alias="backdrop.width" value="320" />
+        <field id="posterHeight" type="float" alias="backdrop.height" value="180" />
+    </interface>
+    <children>
+    </children>
+</component>
